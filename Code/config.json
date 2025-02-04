@@ -1,6 +1,6 @@
 {
     "--resume_from_checkpoint": "latest",
-    "--data_backend_config": "config/multidatabackend.jspath/to/regularization/images,
+    "--data_backend_config": "config/multidatabackend.jsjson
     "--aspect_bucket_rounding": 2,
     "--seed": 42,
     "--minimum_image_size": 0,
