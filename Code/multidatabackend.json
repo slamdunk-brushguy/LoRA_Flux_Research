@@ -1,0 +1,12 @@
+{
+  "training_data_path": "path/to/training/images",
+  "regularization_data_path": "path/to/regularization/images",
+  "aspect_ratio_bucketing": true,
+  "image_size": 512,
+  "batch_size": 1,
+  "split_rules": {
+    "train": 0.8,
+    "validation": 0.1,
+    "test": 0.1
+  }
+}
